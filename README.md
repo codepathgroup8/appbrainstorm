@@ -13,8 +13,57 @@ This is an app to help users remember where they have kept important items.Given
 
 
 ### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+**1. User Stories (Required and Optional)**
+
+  a) *Required Must-have Stories*
+  * A user can create a new account
+  * A user can log into their account
+  * A user can type in an item that they want to be reminded of
+  * A user can remove an item they do not want to remember anymore 
+  * A user will see pop up message asking user to enter the location of the item they want to remember every time the phone is unlocked
+  * User can view a log of locations of the item entered by the user with a time when they open the app
+  * A user can have multple items they want to remember
+
+  b) *Optional Nice-to-have Stories*
+   * A user can log the location of an item based on phone's current location
+   * A user can change the frequency of when the app asks the user for an item's location
+
+**2. Screen Archetypes**
+
+ * Login Screen
+   * User can log in
+ * Registration Screen
+   * User can create a new account
+ * Stream
+   * User can view all items they are currently remembering 
+ * Create
+    * User can add/delete items 
+ * Detail
+    * User can view log of locations for chosen item
+ * Profile
+    * User can see their login details
+    
+**3. Navigation**
+
+   a) *Tab Navigation* (Tab to Screen)
+
+   * Stream
+   * Create
+   * Profile
+     
+   b) *Flow Navigation* (Screen to Screen)
+
+   * Login Screen
+       * Stream 
+   * Registration Screen
+      * Login Screen
+          * Stream
+   * Stream
+     * Detail 
+   * Create
+      * Stream
+   * Profile
+      * Stream
 
 ---
 
