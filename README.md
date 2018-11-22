@@ -1,5 +1,11 @@
 ## Active Reminder
 
+### Prototype
+https://i.imgur.com/8ayWzd5.gif
+
+### Wire Frame
+https://i.imgur.com/UCLFzlW.jpg
+
 ### App Description
 This is an app to help users remember where they have kept important items.Given an item the user wants to remember, this app will require the user to enter the items location every time the phone is unlocked. The item’s previous locations can be viewed when opening the app.
 
