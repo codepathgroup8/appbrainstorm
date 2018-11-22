@@ -1,11 +1,5 @@
 ## Active Reminder
 
-### Prototype
-https://i.imgur.com/8ayWzd5.gif
-
-### Wire Frame
-https://i.imgur.com/UCLFzlW.jpg
-
 ### App Description
 This is an app to help users remember where they have kept important items.Given an item the user wants to remember, this app will require the user to enter the items location every time the phone is unlocked. The item’s previous locations can be viewed when opening the app.
 
@@ -71,12 +65,27 @@ This is an app to help users remember where they have kept important items.Given
    * Profile
       * Stream
 
----
-
 ### Wireframes
-// TODO: Add Wireframe Images
+* Log-in
+<img src="https://i.imgur.com/odytluN.jpg" width=200><br>
 
----
+* Create an Account
+<img src="https://i.imgur.com/bgoSKmt.jpg" width=200><br>
+
+* Home
+<img src="https://i.imgur.com/SElNpJZ.jpg" width=200><br>  
+
+* Settings
+<img src="https://i.imgur.com/208Bh6T.jpg" width=200><br>  
+
+* Add New Item
+<img src="https://i.imgur.com/cx4yqdy.jpg" width=200><br> 
+
+* Item Settings and Log History
+<img src="https://i.imgur.com/FW5pMDJ.jpg" width=200><br> 
+
+### Prototype
+<img src="https://i.imgur.com/8ayWzd5.gif" width=200><br>
 
 ### App Pitch Presentation
 // TODO: Add link to Pitch Presentation Deck
