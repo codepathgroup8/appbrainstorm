@@ -67,21 +67,27 @@ This is an app to help users remember where they have kept important items.Given
 
 ### Wireframes
 * Log-in
+
 <img src="https://i.imgur.com/odytluN.jpg" width=200><br>
 
 * Create an Account
+
 <img src="https://i.imgur.com/bgoSKmt.jpg" width=200><br>
 
 * Home
+
 <img src="https://i.imgur.com/SElNpJZ.jpg" width=200><br>  
 
 * Settings
+
 <img src="https://i.imgur.com/208Bh6T.jpg" width=200><br>  
 
 * Add New Item
+
 <img src="https://i.imgur.com/cx4yqdy.jpg" width=200><br> 
 
 * Item Settings and Log History
+
 <img src="https://i.imgur.com/FW5pMDJ.jpg" width=200><br> 
 
 ### Prototype
